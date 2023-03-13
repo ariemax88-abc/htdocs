@@ -1,0 +1,41 @@
+body {
+  font: 100% Helvetica, sans-serif;
+}
+
+.navbar {
+  background-color: #F7FAFC;
+  color: #4A5568;
+  height: 50px;
+}
+
+.header {
+  background-color: #3C366B;
+  color: #F7FAFC;
+  height: 150px;
+}
+
+.about {
+  background-color: #F7FAFC;
+  color: #3C366B;
+  height: 100px;
+}
+
+.product {
+  background-color: #E74C3C;
+  color: #F7FAFC;
+  height: 100px;
+}
+
+.contact {
+  background-color: #F7FAFC;
+  color: #4A5568;
+  height: 100px;
+}
+
+.footer {
+  background-color: #4A5568;
+  color: #F7FAFC;
+  height: 75px;
+}
+
+/*# sourceMappingURL=css-output.css.map */

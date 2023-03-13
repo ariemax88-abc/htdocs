@@ -1,0 +1,39 @@
+$light-color:#F7FAFC;
+$indigo-color:#3C366B;
+$gray-color:#4A5568;
+$red-color:#E74C3C;
+$font-stack:Helvetica, sans-serif;
+
+body{
+    font: 100% $font-stack;
+}
+.navbar{
+    background-color: $light-color;
+    color: $gray-color;
+    height: 50px;
+}
+.header{
+    background-color: $indigo-color;
+    color: $light-color;
+    height: 150px;
+}
+.about{
+    background-color: $light-color;
+    color: $indigo-color;
+    height: 100px;
+}
+.product{
+    background-color: $red-color;
+    color: $light-color;
+    height: 100px;
+}
+.contact{
+    background-color: $light-color;
+    color:$gray-color;
+    height: 100px;
+}
+.footer{
+    background-color: $gray-color;
+    color:$light-color;
+    height: 75px;
+}
