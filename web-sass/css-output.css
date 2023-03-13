@@ -6,6 +6,21 @@ body {
   background-color: #F7FAFC;
   color: #4A5568;
   height: 50px;
+  a: hover;
+  a-background-color: #DDD;
+  a-color: black;
+  a-padding: 30px 20px;
+}
+.navbar a {
+  float: left;
+  display: block;
+  text-align: center;
+  padding: 10px 20px;
+  text-decoration: none;
+}
+.navbar a img {
+  height: 30px;
+  width: 145px;
 }
 
 .header {
